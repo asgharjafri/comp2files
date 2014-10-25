@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1335221908 source:c:\programs\comp2files\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+
